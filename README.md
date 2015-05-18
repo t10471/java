@@ -31,6 +31,8 @@ java
 
 - hierarchy  
     型変数の継承サンプル
+- observer  
+	実践ドメイン駆動設計のイベントのサンプル
 - recursive  
     再帰代入のサンプル
 - recursive.inner  
